@@ -1,6 +1,12 @@
-# 💫 About Me:
-🔭 I'm currently working on building a food-rescue platform with AI chatbot (MERN stack), SmartAttend attendance system (Flutter), and club management portals<br><br>👯 I'm looking to collaborate on social-impact projects, AI-powered applications, and full-stack web/mobile apps focused on real-world problems<br><br>🤝 I'm looking for help with advanced AI/ML model integration, cloud architecture optimization, and UI/UX design patterns for scalable applications<br><br>🌱 I'm currently learning advanced Flutter patterns, AI prompt engineering, microservices architecture, and geolocation/map integration<br><br>💬 Ask me about full-stack development (MERN, Django), Flutter mobile apps, AI chatbot integration, event management, or building projects with social impact<br><br>⚡ Fun fact I'm the Digital Head of my college Literary Club and code best during late-night sessions fueled by hackathon energy!
-
+## About
+ 
+I'm Sumukha H S, an Information Science Engineering student at Malnad College of Engineering. I build full stack and Flutter applications, with a focus on clean UI and practical functionality over flashy design.
+ 
+My stack includes Flutter, React, Next.js, Node.js, Express.js, Django, PostgreSQL, MongoDB, Firebase, and Supabase. I've built NGO tools, offline-first mobile apps, an AI-powered maritime safety platform, event management systems, and freelance projects for clients — enough range to have touched most of the software development lifecycle firsthand.
+ 
+Outside coding, I've run things: Campus Mantri, Student Convener, Literary Club Executive. Managing teams and pulling off large events taught me as much about shipping software as any class did — deadlines don't move, and neither do stakeholders.
+ 
+I want to start as a Full Stack or Flutter Developer, work with a team that ships real things, and keep getting better at this.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sumukha-hs/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sumukhahs1503@gmail.com) 
